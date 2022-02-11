@@ -23,6 +23,8 @@ $$x_{new}=x_{i}+(\^x-x_{i}) \hspace{1mm} x \hspace{1mm} \delta$$
 
 [Lista Completa LAtex](https://manualdelatex.com/simbolos)
 
+[SMOTE, Algoritmo para balanceo de clases en un
+estudio aplicado a la ganadería.](http://sedici.unlp.edu.ar/bitstream/handle/10915/114339/Documento_completo.pdf-PDFA.pdf?sequence=1&isAllowed=y)
 
-
+[Impacto de los algoritmos de sobremuestreo en la clasificación de subtipos principales del síndrome de guillain-barré](https://www.redalyc.org/journal/5055/505565143002/html/)
 
