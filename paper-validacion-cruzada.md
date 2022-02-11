@@ -1,0 +1,7 @@
+### Evaluación del rendimiento de los algoritmos de clasificación por validación cruzada k-fold y dejar uno fuera
+
+La clasificación es una tarea esencial para predecir los valores de clase de nuevas instancias. Tanto la validación cruzada k-fold como la de dejar uno fuera son muy populares para evaluar el rendimiento de los algoritmos de clasificación. Muchas literaturas de minería de datos introducen las operaciones para estos dos tipos de validación cruzada y los métodos estadísticos que se pueden usar para analizar las precisiones resultantes de los algoritmos, mientras que esos contenidos generalmente no son todos consistentes. Por lo tanto, los analistas pueden confundirse al realizar un procedimiento de validación cruzada. En este artículo, se introducen los supuestos de independencia en la validación cruzada y también se abordan las circunstancias que satisfacen los supuestos. Los supuestos de independencia se utilizan luego para derivar las distribuciones de muestreo de los estimadores puntuales para la validación cruzada k-fold y dejar uno fuera. Se analiza el procedimiento de validación cruzada para tener tales distribuciones de muestreo para proporcionar nuevos conocimientos en la evaluación del rendimiento de los algoritmos de clasificación.
+
+Clasificación Independencia Validación cruzada k-Fold Validación cruzada deja uno fuera Distribución de muestreo
+
+Benchmark - Una prueba de rendimiento o comparativa es una técnica utilizada para medir el rendimiento de un sistema o uno de sus componentes. 
